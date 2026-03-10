@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Cao Duong Nghia!
 
-![Profile Picture](https://i.imgur.com/UUgQctx.jpeg)  <!-- Add your profile picture -->
-
+<img src="https://i.imgur.com/UUgQctx.jpeg" alt="Profile Picture" width="200"/>
 Welcome to my GitHub! 👨‍💻  
 I am always looking for opportunities to learn and grow.
 
@@ -9,12 +8,6 @@ I am always looking for opportunities to learn and grow.
 
 - 🔭 I'm currently working on DNPhim
 - 🌱 I’m learning more about website
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=duongnghja&show_icons=true&theme=radical" alt="Stats" />
-</p>
 
 ## 🚀 Featured Projects
 
