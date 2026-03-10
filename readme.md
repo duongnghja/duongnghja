@@ -17,7 +17,7 @@ I am always looking for opportunities to learn and grow.
 
 - 📧 **Email**: fabicomcam1710@gmail.com
 - 🌐 **Website**: [dnphim.vercel.app](http://dnphim.vercel.app/)
-- ⓕ **Facebook**: [Cao Duong Nghia]([https://twitter.com/your-twitter-handle](https://www.facebook.com/Two171008))
+- ⓕ **Facebook**: [https://www.facebook.com/Two171008]
 
 ---
 
