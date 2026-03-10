@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Cao Duong Nghia!
 
-![Profile Picture]https://github.com/duongnghja/duongnghja/blob/main/507503710_10237831613836098_263060053088857547_n.jpg  <!-- Add your profile picture -->
+![Profile Picture](https://i.imgur.com/UUgQctx.jpeg)  <!-- Add your profile picture -->
 
 Welcome to my GitHub! 👨‍💻  
 I am always looking for opportunities to learn and grow.
